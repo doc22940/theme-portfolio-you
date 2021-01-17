@@ -2,7 +2,7 @@
 source              : ../
 collections_dir     : docs
 data_dir            : docs/_data
-baseurl             : "/theme-portfolio-you-test"
+baseurl             : " "
 repository          : doc22940/theme-portfolio-you
 
 
